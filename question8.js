@@ -1,3 +1,4 @@
+// solution
 function gradeScore(score) {
   if (score >= 70 && score <= 100) {
     return 'A';

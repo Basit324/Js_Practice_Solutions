@@ -1,3 +1,4 @@
+// solution
 const fruits =["mango", "orange", "banana"];
 fruits.push("pineapple");
 console.log(fruits);

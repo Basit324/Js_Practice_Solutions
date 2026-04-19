@@ -1,3 +1,4 @@
+// solution
 function formatName(firstName, lastName) {
   // remove spaces
   firstName = firstName.trim();

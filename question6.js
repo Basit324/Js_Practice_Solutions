@@ -1,3 +1,4 @@
+// solution
 const myProfile= {
     name: "Abdulbasit",
     age: 35,
