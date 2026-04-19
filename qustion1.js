@@ -1,5 +1,5 @@
-let yourName = "Basit";
-const yourAge = 35;
+const yourName = "Abdulganiyu AbdulBasit Ayinde";
+let yourAge = 35;
 let isStudent = "true";
 console.log(yourName);
 console.log(yourAge);

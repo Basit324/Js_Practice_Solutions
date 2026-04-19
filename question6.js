@@ -8,3 +8,5 @@ function displayMyProfile(person){
     console.log(person.name + " is " + person.age + "years old and likes " +person.hubby);
 }
 displayMyProfile(myProfile);
+ 
+

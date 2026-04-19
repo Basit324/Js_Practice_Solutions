@@ -1,2 +1,5 @@
-let greetUser ="Abdulbasit Abdulganiyu Ayinde";
-console.log("Welcome to TechCrush " + [greetUser]);
+
+function greet(name) {
+    return "Welcome to TechCrush " + name;
+};
+ console.log(greet("Abdulbasit"));
